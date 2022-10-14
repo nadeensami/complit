@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/complit/static/css/main.199d3bbb.css",
+    "main.js": "/complit/static/js/main.2a83290e.js",
+    "index.html": "/complit/index.html",
+    "main.199d3bbb.css.map": "/complit/static/css/main.199d3bbb.css.map",
+    "main.2a83290e.js.map": "/complit/static/js/main.2a83290e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.199d3bbb.css",
+    "static/js/main.2a83290e.js"
+  ]
+}
