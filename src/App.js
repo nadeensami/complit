@@ -46,6 +46,7 @@ const App = () => {
 		<div className="App">
 			<header>
 				<h1>N+7 Generator</h1>
+				<div className="line" />
 				<p>A tool to transform an input text using the OuLiPotan constraint, N+7.</p>
 				<p>For N+7, every noun is converted to a noun that is 7 after it in the dictionary.</p>
 			</header>
